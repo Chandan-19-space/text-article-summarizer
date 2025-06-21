@@ -12,7 +12,7 @@ This application uses the BART-Large-CNN model to generate concise summaries fro
 
 1. Clone this repository:
 ```
-git clone https://github.com/yourusername/text-summarizer.git
+git clone https://github.com/Chandan-19-space/text-article-summarizer.git
 cd text-summarizer
 ```
 
